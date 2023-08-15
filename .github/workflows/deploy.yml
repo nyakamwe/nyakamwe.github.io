@@ -17,6 +17,9 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: 14
+      
+      - name: Installing Dependencies
+        run: npm install
 
       - name: Grant Execute permission to deploy script
         run: chmod +x deploy.sh
