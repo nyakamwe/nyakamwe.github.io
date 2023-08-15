@@ -9,7 +9,7 @@
                     <p class="text-2xl font-bold mt-5">Fab Store shopping app</p>
                     <p class="mt-5 text-gray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. In rerum officiis velit, illo ut iure quos eveniet molestiae neque soluta doloribus ducimus possimus hic esse doloremque tenetur dignissimos sit magni! Dicta similique provident nisi asperiores. Magnam, nostrum? Error, reprehenderit eum, facilis numquam nisi enim, laboriosam quod deleniti esse laudantium maiores nam fuga fugiat temporibus iure a. Repellendus iusto repellat maiores sed dolore unde consequuntur iste corporis dignissimos quisquam, molestiae aut officia sapiente ipsam totam nisi voluptatem minus! Eius, amet facilis.</p>
                     <NuxtLink :to="``" class="inline-block mt-5 px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-lg shadow-lg transition duration-200">
-                        View Details
+                        View Detailss
                     </NuxtLink>
                 </div>
                 <div class="m-10">
@@ -23,7 +23,7 @@
                     <p class="text-2xl font-bold mt-5">Christians Information Management System - ADEPR Batsinda </p>
                     <p class="mt-5 text-gray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. In rerum officiis velit, illo ut iure quos eveniet molestiae neque soluta doloribus ducimus possimus hic esse doloremque tenetur dignissimos sit magni! Dicta similique provident nisi asperiores. Magnam, nostrum? Error, reprehenderit eum, facilis numquam nisi enim, laboriosam quod deleniti esse laudantium maiores nam fuga fugiat temporibus iure a. Repellendus iusto repellat maiores sed dolore unde consequuntur iste corporis dignissimos quisquam, molestiae aut officia sapiente ipsam totam nisi voluptatem minus! Eius, amet facilis.</p>
                     <NuxtLink :to="``" class="inline-block mt-5 px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-lg shadow-lg transition duration-200">
-                        View Details
+                        View Detailss
                     </NuxtLink>
                 </div>
                 <div class="m-10">
@@ -37,7 +37,7 @@
                     <p class="text-2xl font-bold mt-5">Christians Information Management System - ADEPR Batsinda </p>
                     <p class="mt-5 text-gray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. In rerum officiis velit, illo ut iure quos eveniet molestiae neque soluta doloribus ducimus possimus hic esse doloremque tenetur dignissimos sit magni! Dicta similique provident nisi asperiores. Magnam, nostrum? Error, reprehenderit eum, facilis numquam nisi enim, laboriosam quod deleniti esse laudantium maiores nam fuga fugiat temporibus iure a. Repellendus iusto repellat maiores sed dolore unde consequuntur iste corporis dignissimos quisquam, molestiae aut officia sapiente ipsam totam nisi voluptatem minus! Eius, amet facilis.</p>
                     <NuxtLink :to="``" class="inline-block mt-5 px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-lg shadow-lg transition duration-200">
-                        View Details
+                        View Detailss
                     </NuxtLink>
                 </div>
                 <div class="m-10">
