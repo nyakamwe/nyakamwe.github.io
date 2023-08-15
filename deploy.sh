@@ -7,9 +7,12 @@ rm -rf .output
 npm run generate
 
 # Clean the deploy branch
-git checkout -b docs
+git checkout docs
 git rm -r .
 git clean -df
+
+# Pull remote code
+git pull origin docs
 
 # Copy the generated files to the root directory
 cp -R .output/public/* .
