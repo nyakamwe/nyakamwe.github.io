@@ -18,5 +18,8 @@ jobs:
         with:
           node-version: 14
 
+      - name: Grant Execute permission to deploy script
+        run: chmod +x deploy.sh
+
       - name: Run deploy script
         run: ./deploy.sh
