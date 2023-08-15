@@ -18,4 +18,4 @@ git commit -m "Update portfolio site"
 git push origin deploy
 
 # Switch back to the main branch
-git checkout main
+git checkout master
