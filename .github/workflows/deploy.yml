@@ -24,5 +24,10 @@ jobs:
       - name: Grant Execute permission to deploy script
         run: chmod +x deploy.sh
 
+      - name: Configure Git Identity
+        run: |
+          git config user.email "nyakamweaimable@gmail.com"
+          git config user.name "nyakamwe"
+
       - name: Run deploy script
         run: ./deploy.sh
