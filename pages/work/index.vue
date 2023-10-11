@@ -178,10 +178,38 @@
 
             <div class="bg-white rounded-lg shadow-lg flex justify-between">
                 <div class="m-10 max-w-xs md:max-w-2xl">
+                    <p class="text-2xl font-bold">PositiveO</p>
+                    <h2 class="text-lg font-semibold">Role: Apprenticee</h2>
+                    <p class="text-gray-700">Sept.2022 - Dec.2022</p>
+                    <p class="mt-5 font-semibold">PositiveO is a non-profit organization located in  Nigeria, which aims to help people through counselling via their mobile app.</p>
+                    <p>Responsibilities:</p>
+                    <ul>
+                        <li v-for="(responsibility, index) in positiveO.positiveOResponsibilities" :key="index">
+                          {{++index}}. {{ responsibility }}
+                        </li>
+                    </ul>
+                    
+                    <div class="flex items-center my-3">
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4" v-for="(technology, index) in positiveO.technologies" :key="index">
+                            #{{ technology }}
+                        </p>
+                    </div>
+                    <!-- <p>Check out <a href="https://drive.google.com/file/d/1Ul-7AeFcM0LJx-6Ew49dn0NgiB7va23m/preview" target="_blank" class="underline">here</a></p> -->
+                </div>
+                <!-- <div class="m-10 max-w-xs md:max-w-2xl">
+                    <div class="rounded border border-gray-300 overflow-hidden">
+                        <iframe src="https://drive.google.com/file/d/1Ul-7AeFcM0LJx-6Ew49dn0NgiB7va23m/preview" frameborder="0" width="100%" height="400px"></iframe>
+                    </div>
+                    
+                </div> -->
+            </div>   
+            
+            <div class="bg-white rounded-lg shadow-lg flex justify-between">
+                <div class="m-10 max-w-xs md:max-w-2xl">
                     <p class="text-2xl font-bold">Andela</p>
                     <h2 class="text-lg font-semibold">Role: Andela ATLP Trainee</h2>
                     <p class="text-gray-700">Feb.2022 - Dec.2022</p>
-                    <p class="mt-5 font-semibold">Andela is company located in Rwanda, which aims to raise young Rwandan abilities especially in technology fields, they have 9-month intensive software development bootcamp.</p>
+                    <p class="mt-5 font-semibold">Andela is Worlwide company which has branch in Rwanda, which aims to raise young Rwandan abilities especially in technology fields, they have 9-month intensive software development bootcamp.</p>
                     <p>Responsibilities:</p>
                     <ul>
                         <li v-for="(responsibility, index) in andela.andelaResponsibilities" :key="index">
@@ -202,7 +230,7 @@
                     </div>
                     
                 </div>
-            </div>            
+            </div>
         </div>
     </div>
     
@@ -260,6 +288,15 @@
             "Do Technical Documentation for future use."
         ],
         technologies: ['JavaScript', 'NodeJs', 'ReactJs', 'Mocha/Chai', 'Jest', 'Docker']
+    }
+
+    const positiveO = {
+        positiveOResponsibilities: [
+            "Developed Mobile User interfaces with React Native.",
+            "Refactored codebase",
+            "Do Technical Documentation for future use."
+        ],
+        technologies: ['React Native']
     }
 
 </script>
