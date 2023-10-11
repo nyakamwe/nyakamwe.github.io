@@ -165,7 +165,7 @@
                             #{{ technology }}
                         </p>
                     </div>
-                    <p>Check out Credential <NuxtLink to="https://drive.google.com/file/d/1wY_owVDmiwJ0bZRmKgBI25fiu5A3ZBZq/preview" class="underline">here</NuxtLink></p>
+                    <p>Check out <a href="https://drive.google.com/file/d/1wY_owVDmiwJ0bZRmKgBI25fiu5A3ZBZq/preview" target="_blank" class="underline">here</a></p>
                 </div>
                 <!-- Site Preview -->
                 <div class="m-10 max-w-xs md:max-w-2xl">
@@ -194,7 +194,7 @@
                             #{{ technology }}
                         </p>
                     </div>
-                    <p>Check out Credential <NuxtLink to="https://drive.google.com/file/d/1Ul-7AeFcM0LJx-6Ew49dn0NgiB7va23m/preview" class="underline">here</NuxtLink></p>
+                    <p>Check out <a href="https://drive.google.com/file/d/1Ul-7AeFcM0LJx-6Ew49dn0NgiB7va23m/preview" target="_blank" class="underline">here</a></p>
                 </div>
                 <div class="m-10 max-w-xs md:max-w-2xl">
                     <div class="rounded border border-gray-300 overflow-hidden">
