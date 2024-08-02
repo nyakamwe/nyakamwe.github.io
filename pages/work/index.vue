@@ -5,6 +5,59 @@
         <div class="grid gap-5">
             <div class="bg-white rounded-lg shadow-lg flex justify-between">
                 <div class="m-10 max-w-xs md:max-w-2xl">
+                    <p class="text-2xl font-bold">Car Self-drive Booking && Ride sharing (Mobile App)</p>
+                    <h2 class="text-lg font-semibold">Role: Backend Engineer</h2>
+                    <p class="mt-5 font-semibold">This cutting-edge self-driving platform integrates a variety of gps device trackers, and payment gateways to enable safe and efficient autonomous navigation in diverse driving conditions.</p>
+                    <p>Responsibilities:</p>
+                    <ul>
+                        <li>1. System architecture (core backend infrastrucure, developing APIs, scalability and reliability of backend services).</li>
+                        <li>2. Configure backend server to receive and process information from GPS Device</li>
+                        <li>3. Third-Party APIs integration such as Payment gateway, Google Maps, OpenStreetMap etc..</li>
+                        <li>4. Automate Deployment process with aid of CI/CD Tools.</li>
+                    </ul>
+                    <div class="flex items-center my-3">
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #nestjs</p>
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #geolocation</p>
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #openstreetmap</p>
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #gpstracker</p>
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #sms</p>
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #gps103</p>
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #redis</p>
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #queue</p>
+
+                    </div>
+                    <!-- <p>Check out <a href="https://www.smartclass.rw/" target="_blank" class="underline">here</a></p> -->
+                </div>
+                <!-- <div class="m-10 max-w-xs md:max-w-2xl">
+                    <div class="rounded border border-gray-300 overflow-hidden"><iframe src="https://www.smartclass.rw/" frameborder="0" width="100%" height="400px"></iframe></div>
+                </div> -->
+            </div>
+            <div class="bg-white rounded-lg shadow-lg flex justify-between">
+                <div class="m-10 max-w-xs md:max-w-2xl">
+                    <p class="text-2xl font-bold">Online Learning Platform (Smart class)</p>
+                    <h2 class="text-lg font-semibold">Role: Backend Engineer</h2>
+                    <p class="mt-5 font-semibold">Smartclass is an online learning platform which aims to connect all Rwandan high school students learning similar academic subjects and provide them with access to valuable learning materials and high-quality teachers. Thus helping students achieve academic excellence no matter their location or time of day.</p>
+                    <p>Responsibilities:</p>
+                    <ul>
+                        <li>1. Designed Database Schemas of the application.</li>
+                        <li>2. Implementing backend logic and APIs for allowing frontend to communicate with the application.</li>
+                        <li>3. Third-Party APIs integration such as Payment gateway, Google Maps etc..</li>
+                        <li>4. Develop User Interfaces using modern JavaScript Framework(VueJS and NuxtJS).</li>
+                        <li>5. Automate Deployment process with aid of CI/CD Tools.</li>
+                    </ul>
+                    <div class="flex items-center my-3">
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #Python</p>
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #Django</p>
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #Payment-gateway</p>
+                    </div>
+                    <p>Check out <a href="https://www.smartclass.rw/" target="_blank" class="underline">here</a></p>
+                </div>
+                <div class="m-10 max-w-xs md:max-w-2xl">
+                    <div class="rounded border border-gray-300 overflow-hidden"><iframe src="https://www.smartclass.rw/" frameborder="0" width="100%" height="400px"></iframe></div>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow-lg flex justify-between">
+                <div class="m-10 max-w-xs md:max-w-2xl">
                     <p class="text-2xl font-bold">Reach rw</p>
                     <h2 class="text-lg font-semibold">Role: Full-Stack Developer</h2>
                     <!-- <p class="text-gray-700">Nov.2022 - Aug.2023</p> -->
