@@ -5,9 +5,38 @@
         <div class="grid gap-5">
             <div class="bg-white rounded-lg shadow-lg flex justify-between">
                 <div class="m-10 max-w-xs md:max-w-2xl">
-                    <p class="text-2xl font-bold">Car Self-drive Booking && Ride sharing (Mobile App)</p>
+                    <p class="text-2xl font-bold">Rwanda Social Security Board(RSSB)</p>
                     <h2 class="text-lg font-semibold">Role: Backend Engineer</h2>
-                    <p class="mt-5 font-semibold">This cutting-edge self-driving platform integrates a variety of gps device trackers, and payment gateways to enable safe and efficient autonomous navigation in diverse driving conditions.</p>
+                    <p class="text-gray-700">Jan.2024 - Present</p>
+                    <p class="mt-3 font-semibold">Involve in digitizing Rwandaise d'assurance maladie (RAMA) as national medical insurance for employees in both public and private sectors.</p>
+                    <!-- <p>Responsibilities:</p>
+                    <ul>
+                        <li>1. System architecture (core backend infrastrucure, developing APIs, scalability and reliability of backend services).</li>
+                        <li>2. Query optimization and performance increase.</li>
+                        <li>3. Internal APIs integration.</li>
+                        <li>3. Data streamlining from one application to other application using KAFKA.</li>
+                        <li>3. Handle easy access to most frequently queried data with REDIS.</li>
+                        <li>4. Server setting up for production readiness (Database, Application, NGNIX).</li>
+                        <li>5. Automate deployment process, deployment versioning with aid of CI/CD Tools.</li>
+                    </ul> -->
+                    <div class="flex items-center my-3">
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #nestjs</p>
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #kafka</p>
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #redis</p>
+                        <p class="bg-gray-600 text-white p-1 rounded mr-4"> #postgresql</p>
+                    </div>
+                    <!-- <p>Check out <a href="https://www.smartclass.rw/" target="_blank" class="underline">here</a></p> -->
+                </div>
+                <!-- <div class="m-10 max-w-xs md:max-w-2xl">
+                    <div class="rounded border border-gray-300 overflow-hidden"><iframe src="https://www.smartclass.rw/" frameborder="0" width="100%" height="400px"></iframe></div>
+                </div> -->
+            </div>
+            <div class="bg-white rounded-lg shadow-lg flex justify-between">
+                <div class="m-10 max-w-xs md:max-w-2xl">
+                    <p class="text-2xl font-bold">Car Self-drive Booking & Ride sharing (Mobile App)</p>
+                    <h2 class="text-lg font-semibold">Role: Backend Engineer</h2>
+                    <p class="text-gray-700">Mar.2024 - Dec.2024</p>
+                    <p class="mt-2 font-semibold">This cutting-edge self-driving platform integrates a variety of gps device trackers, and payment gateways to enable safe and efficient autonomous navigation in diverse driving conditions.</p>
                     <p>Responsibilities:</p>
                     <ul>
                         <li>1. System architecture (core backend infrastrucure, developing APIs, scalability and reliability of backend services).</li>
@@ -36,14 +65,14 @@
                 <div class="m-10 max-w-xs md:max-w-2xl">
                     <p class="text-2xl font-bold">Online Learning Platform (Smart class)</p>
                     <h2 class="text-lg font-semibold">Role: Backend Engineer</h2>
+                    <p class="text-gray-700">Aug.2023 - May.2024</p>
                     <p class="mt-5 font-semibold">Smartclass is an online learning platform which aims to connect all Rwandan high school students learning similar academic subjects and provide them with access to valuable learning materials and high-quality teachers. Thus helping students achieve academic excellence no matter their location or time of day.</p>
                     <p>Responsibilities:</p>
                     <ul>
                         <li>1. Designed Database Schemas of the application.</li>
                         <li>2. Implementing backend logic and APIs for allowing frontend to communicate with the application.</li>
                         <li>3. Third-Party APIs integration such as Payment gateway, Google Maps etc..</li>
-                        <li>4. Develop User Interfaces using modern JavaScript Framework(VueJS and NuxtJS).</li>
-                        <li>5. Automate Deployment process with aid of CI/CD Tools.</li>
+                        <li>4. Automate Deployment process with aid of CI/CD Tools.</li>
                     </ul>
                     <div class="flex items-center my-3">
                         <p class="bg-gray-600 text-white p-1 rounded mr-4"> #Python</p>
@@ -60,7 +89,7 @@
                 <div class="m-10 max-w-xs md:max-w-2xl">
                     <p class="text-2xl font-bold">Reach rw</p>
                     <h2 class="text-lg font-semibold">Role: Full-Stack Developer</h2>
-                    <!-- <p class="text-gray-700">Nov.2022 - Aug.2023</p> -->
+                    <p class="text-gray-700">Nov.2022 - Aug.2023</p>
                     <p class="mt-5 font-semibold">Reach is a company located in Rwanda, now there are soon launching Ride sharing mobile app.</p>
                     <p>Responsibilities:</p>
                     <ul>
@@ -89,7 +118,7 @@
                 <div class="m-10 max-w-xs md:max-w-2xl">
                     <p class="text-2xl font-bold">Soma </p>
                     <h2 class="text-lg font-semibold">Role: Full-Stack Developer</h2>
-                    <!-- <p class="text-gray-700">Apr.2022 - Oct.2022</p> -->
+                    <p class="text-gray-700">Apr.2022 - Sep.2023</p>
                     <p class="mt-5 font-semibold">
                         Soma is a company located in Rwanda, aims to teach society 
                         about traffic rules(Amategeko Y'umuhanda), We have a website which has lessons 
@@ -126,7 +155,7 @@
                 <div class="m-10 max-w-xs md:max-w-2xl">
                     <p class="text-2xl font-bold">Spedition Karen</p>
                     <h2 class="text-lg font-semibold">Role: Backend Developer</h2>
-                    <!-- <p class="text-gray-700">Jun.2023 - Jul.2023</p> -->
+                    <p class="text-gray-700">Jun.2023 - Aug.2023</p>
                     <p class="mt-5 font-semibold">Spedition Karen is a company located in Rwanda, now there are soon launching Ride sharing mobile app.</p>
                     <p>Responsibilities:</p>
                     <ul>
@@ -159,7 +188,7 @@
                 <div class="m-10 max-w-xs md:max-w-2xl">
                     <p class="text-2xl font-bold">Young Wommen Mentors Network</p>
                     <h2 class="text-lg font-semibold">Role: Backend Developer</h2>
-                    <!-- <p class="text-gray-700">Nov.2022 - Dec.2022</p> -->
+                    <p class="text-gray-700">Jun.2023 - Jul.2023</p>
                     <p class="mt-5 font-semibold">Today YWMNet brings together a team of multidisciplinary Experts and professionals made up of Senior and Chief mentors, 
                         Social worker practitioners, Medical practitioners, Counselors, Gender activists, 
                         Public Health &Preventive Medicine experts, lawyers, healthcare professionals, Economists, 
