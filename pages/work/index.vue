@@ -186,7 +186,7 @@
 
             <div class="bg-white rounded-lg shadow-lg flex justify-between">
                 <div class="m-10 max-w-xs md:max-w-2xl">
-                    <p class="text-2xl font-bold">Young Wommen Mentors Network</p>
+                    <p class="text-2xl font-bold">Young Women Mentors Network</p>
                     <h2 class="text-lg font-semibold">Role: Backend Developer</h2>
                     <p class="text-gray-700">Jun.2023 - Jul.2023</p>
                     <p class="mt-5 font-semibold">Today YWMNet brings together a team of multidisciplinary Experts and professionals made up of Senior and Chief mentors, 
